@@ -1,0 +1,32 @@
+[
+  {
+    "image": "/essentials/grocery.png",
+    "name": "Daily Essentials",
+    "discount": "UP to 50% OFF"
+  },
+  {
+    "image": "/essentials/Vegetables.png",
+    "name": "Vegetables",
+    "discount": "UP to 50% OFF"
+  },
+  {
+    "image": "/essentials/fruits.png",
+    "name": "Fruits",
+    "discount": "UP to 50% OFF"
+  },
+  {
+    "image": "/essentials/strawberry.png",
+    "name": "Strawberry",
+    "discount": "UP to 50% OFF"
+  },
+  {
+    "image": "/essentials/mango.png",
+    "name": "Mango",
+    "discount": "UP to 50% OFF"
+  },
+  {
+    "image": "/essentials/cherry.png",
+    "name": "Cherry",
+    "discount": "UP to 50% OFF"
+  }
+]

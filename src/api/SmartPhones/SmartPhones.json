@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "/SmartPhones/image-1.png",
+    "name": "Galaxy S22 Ultra",
+    "price": "32999",
+    "discount": "74999",
+    "save": "32999",
+    "off": "56%"
+  },
+  {
+    "id": 2,
+    "image": "/SmartPhones/image-2.png",
+    "name": "Galaxy M13 (4GB | 64 GB )",
+    "price": "10499",
+    "discount": "14999",
+    "save": "4500",
+    "off": "56%"
+  },
+  {
+    "id": 3,
+    "image": "/SmartPhones/image-3.png",
+    "name": "Galaxy M33 (4GB | 64 GB )",
+    "price": "32999",
+    "discount": "16999",
+    "save": "8000",
+    "off": "56%"
+  },
+  {
+    "id": 4,
+    "image": "/SmartPhones/image-4.png",
+    "name": "Galaxy M53 (4GB | 64 GB )",
+    "price": "31999",
+    "discount": "40999",
+    "save": "9000",
+    "off": "56%"
+  },
+  {
+    "id": 5,
+    "image": "/SmartPhones/image-5.png",
+    "name": "Galaxy S22 Ultra",
+    "price": "67999",
+    "discount": "85999",
+    "save": "18000",
+    "off": "56%"
+  }
+]

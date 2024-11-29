@@ -1,0 +1,30 @@
+[
+  {
+    "image": "/category/image-1.png",
+    "name": "Mobile"
+  },
+  {
+    "image": "/category/image-2.png",
+    "name": "Cosmetics"
+  },
+  {
+    "image": "/category/image-3.png",
+    "name": "Electronics"
+  },
+  {
+    "image": "/category/image-4.png",
+    "name": "Furniture"
+  },
+  {
+    "image": "/category/image-5.png",
+    "name": "Watches"
+  },
+  {
+    "image": "/category/image-6.png",
+    "name": "Decor"
+  },
+  {
+    "image": "/category/image-7.png",
+    "name": "Accessories"
+  }
+]
