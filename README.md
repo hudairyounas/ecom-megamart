@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 # Project Link
 
 - https://ecom-megamart.vercel.app
+
+# Figma File Link
+
+- https://www.figma.com/design/LpM2H01I2FauDrdDfpNWum/Ecommerce-Website-Design-(Community)?node-id=163-3&node-type=symbol&t=AQkzMo8CRcyAOend-0
